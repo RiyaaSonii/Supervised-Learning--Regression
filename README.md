@@ -8,6 +8,11 @@ for assessing the creditworthiness of individuals seeking two-wheeler loans, thu
 Designed and implemented a machine learning model to predict the Profile Score of the individuals. This involved data collection, thorough preprocessing, and the application
 of regression algorithms. The goal is to help the financial institutions to figure out if someone is a good fit for a loan or not by checking their Profile Score which ranges from 0 to 100.
 
-# Algorithms Used- Linear Regression, Stochastic Gradient Descent, K nearest Neighbor, Decision Tree Regressor, XGboost Regressor
-# Performance & Evaluation Metrics- R2 score and RMSE on both training and testing sets.
-# Performance- Testing R2 – 0.89 and Testing RMSE – 8.03
+# Algorithms Used- 
+Linear Regression, Stochastic Gradient Descent, K nearest Neighbor, Decision Tree Regressor, XGboost Regressor
+
+# Performance & Evaluation Metrics- 
+R2 score and RMSE on both training and testing sets.
+
+# Performance- 
+Testing R2 – 0.89 and Testing RMSE – 8.03
